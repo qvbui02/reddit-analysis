@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+ENV/
+env/
+
+# MacOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow.env
+.env
+*.db
+
+# Data
+data/
+
+# Docker volumes (if used)
+postgres-db-volume/
