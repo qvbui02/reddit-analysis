@@ -23,6 +23,7 @@ logs/
 airflow.env
 .env
 *.db
+plugins
 
 # Docker volumes (if used)
 postgres-db-volume/
