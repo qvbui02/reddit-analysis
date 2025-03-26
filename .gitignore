@@ -10,6 +10,7 @@ __pycache__/
 venv/
 ENV/
 env/
+config
 
 # MacOS
 .DS_Store
@@ -22,9 +23,6 @@ logs/
 airflow.env
 .env
 *.db
-
-# Data
-data/
 
 # Docker volumes (if used)
 postgres-db-volume/
